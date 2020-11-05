@@ -7,3 +7,5 @@ For encryption:
 <br>
 For decryption:
 `$ python3 main.py -d -s {shift integer} input_filename output_filename`
+
+⚠ CAUTION: This cipehr can be easily broken with exhaustive key search (brute-force).
